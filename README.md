@@ -5,11 +5,8 @@ I’m a passionate software developer who loves building clean, efficient, and s
 
 ---
 
-🔭 **I’m currently working on**  
-- Personal and open-source projects  
-
 🌱 **I’m currently learning**  
-- Advanced development techniques and new frameworks  
+- ODIN Project Curriculum 
 
 💬 **Ask me about**  
 - Programming, problem-solving, software development, and best practices  
